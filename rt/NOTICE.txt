@@ -1,0 +1,4 @@
+Third-party runtimes served from this folder, unmodified:
+- Pyodide 0.27.7 (Mozilla Public License 2.0), https://pyodide.org
+- NumPy (BSD 3-Clause), pandas (BSD 3-Clause), OpenCV (Apache 2.0), Pillow (HPND), python-dateutil (Apache 2.0 / BSD), pytz (MIT), six (MIT)
+- ONNX Runtime Web (MIT), https://onnxruntime.ai
